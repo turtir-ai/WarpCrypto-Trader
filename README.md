@@ -10,7 +10,7 @@
 
 **WarpCrypto-Trader** is an advanced AI-powered cryptocurrency analysis platform that provides real-time predictions, technical analysis, and trading strategy comparisons for Bitcoin, Ethereum, and Solana. Perfect for creating engaging content for social media platforms like X.com (Twitter)!
 
-![Demo](https://via.placeholder.com/800x400/0f0c29/4ECDC4?text=WarpCrypto-Trader+v2.0+Demo)
+![WarpCrypto-Trader Demo](demo_optimized.gif)
 
 ## ✨ Features
 
