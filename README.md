@@ -47,7 +47,7 @@
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/WarpCrypto-Trader.git
+git clone https://github.com/turtir-ai/WarpCrypto-Trader.git
 cd WarpCrypto-Trader
 ```
 
@@ -208,8 +208,8 @@ This project is powered by **[Turtir-AI](https://github.com/turtir-ai)** - Advan
 ## 📧 Contact
 
 For questions, suggestions, or collaborations:
-- Twitter: [@YourTwitter](https://x.com)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Twitter: [@turtirai](https://x.com/turtirai)
+- GitHub: [Turtir-AI](https://github.com/turtir-ai)
 
 ---
 
